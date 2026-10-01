@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://belldental2026.github.io/beldental/sitemap.xml
